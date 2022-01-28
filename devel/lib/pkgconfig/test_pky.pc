@@ -1,0 +1,8 @@
+prefix=/home/chng/catkin_ws/devel
+
+Name: test_pky
+Description: Description of test_pky
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
